@@ -18,4 +18,6 @@ Lecture Notes by Peter Love
 
 [Kitaev and Webb's paper describing the algorithm](https://arxiv.org/pdf/0801.0342.pdf)
 
+[Grover and Rudolph's paper describing how to prepare log-concave distributions](https://arxiv.org/pdf/quant-ph/0208112.pdf)
+
 [Gaussian Wave Packet in the Infinite Square Well](http://www2.optics.rochester.edu/users/stroud/animations/swgaussian.html)
